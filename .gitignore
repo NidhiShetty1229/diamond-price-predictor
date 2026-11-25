@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.vscode/
+.idea/
+# trained model is regenerated with `python model.py` (can be >100 MB, GitHub's file limit)
+diamond_model.pkl
