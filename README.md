@@ -3,6 +3,7 @@
 A machine-learning web app that predicts a diamond's price from its physical and quality attributes
 (carat, cut, color, clarity, depth, table and x/y/z dimensions).
 Built during my Machine Learning internship at Manipal Institute of Technology (Jun–Aug 2025).
+![App screenshot](screenshot.png)
 
 **Stack:** Python · scikit-learn (Random Forest Regressor) · pandas · Flask · HTML/CSS/JavaScript
 
